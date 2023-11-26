@@ -9,7 +9,6 @@ const Navbar = () => {
 
   /**
    * Toggle navbar
-   *
    * This function toggles the isOpen state when the mobile menu button is clicked.
    */
   const toggleNavbar = () => {
@@ -30,7 +29,7 @@ const Navbar = () => {
             <button
               onClick={toggleNavbar}
               className="text-[#2d2e32] hover:text-blue-600">
-              {isOpen ? <RxCross2 /> : <BiAlignRight/>}
+              {isOpen ? <RxCross2 /> : <BiAlignRight className ="w-auto h-auto"/>}
             </button>
           </div>
 
@@ -55,7 +54,7 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
         {isOpen && (
-          <div className="md:hidden float-right box-border border border-slate-900 rounded-xl p-6 bg-[#efe353] w-full h-full">
+          <div className="md:hidden float-right box-border border border-slate-900 rounded-xl p-6 bg-[#efe353] w-[50%] h-screen">
             <Link
               to="#"
               className="block text-[#2d2e32] hover:text-blue-600 mb-1">

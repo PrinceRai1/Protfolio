@@ -17,7 +17,7 @@ const Footer = () => {
             <BiMapAlt className="text-blue-700 text-lg border-none w-16 h-16 p-4"/>
             <span>
               <p className="text-2xl text-gray-900">Location</p>
-              <p className="text-gray-800">Kanpur,Uttar Pradesh,India</p>
+              <p className="text-gray-800">Kanpur,Uttar-Pradesh,India</p>
             </span>
           </div>
           <div className="flex min-w-fit">

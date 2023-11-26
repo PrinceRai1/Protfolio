@@ -16,7 +16,7 @@ function HeroicSection() {
         <img
           src={Logos.herosection.man}
           alt="man"
-          className="lg:h-80 lg:w-80 md:h-60 md:w-60 h-fit w-screen md:order-2 order-1" />
+          className="lg:h-96 lg:w-96 md:h-60 md:w-60 h-fit w-screen md:order-2 order-1" />
         <section className="md:order-1 order-2">
           {/* Title */}
           <h1 className="text-[#2d2e32] md:text-6xl text-5xl font-extrabold lg:max-w-md md:w-4/5 lg:w-fit mr-5">
