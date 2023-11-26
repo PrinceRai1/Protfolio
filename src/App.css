@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@400&family=Signika:wght@500;700&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Signika', 'Anek Devanagari';
+    transition: all 0.5s ease-in-out;
+    opacity: 1;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(asset/cool-background.png);
+    background-size: contain;
+    background-repeat: repeat-y;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Anek Devanagari';
+}
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+    body {
+        background-size: cover;
+    }
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    body {
+        background-size: cover;
+    }
+}
