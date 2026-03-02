@@ -1,11 +1,18 @@
 import React from "react";
+<<<<<<< HEAD
 import Data from "./ProjectData";
+=======
+>>>>>>> e926f463371e47ee17f7fe4eb592e9ed8f077d4a
 
 const Cards = ({Data}) => {
   return (
     <>{Data.map((data) =>
     <figure className="relative w-auto flex flex-wrap md:flex-nowrap mt-16 drop-shadow-sm shadow-[#1d293d] rounded-xl gap-2 justify-between bg-[#f2e769] bg-clip-border text-gray-700 shadow-md">
+<<<<<<< HEAD
       <img src={data.image} className="relative w-screen md:w-2/5 mx-4 -mt-6 h-5/6 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-l from-blue-400 via-blue-500 to-blue-600"></img>
+=======
+      <div className="relative w-screen md:w-2/5 mx-4 -mt-6 h-48 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-l from-blue-400 via-blue-500 to-blue-600"></div>
+>>>>>>> e926f463371e47ee17f7fe4eb592e9ed8f077d4a
       <div className="p-6 md:w-3/5">
         <h5 className="mb-2 block font-sans text-xl font-bold leading-snug tracking-normal text-gray-900 antialiased">
           {data.name}

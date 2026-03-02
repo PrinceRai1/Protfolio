@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import ProjectImg from "./Import.jsx";
 
 const Data = [
@@ -7,6 +8,14 @@ const Data = [
     live: "https://sorting-visualizer-lovat-five.vercel.app/",
     code: "https://github.com/PrinceRai1/SortingVisualizer",
     image: ProjectImg.project_img1,
+=======
+const Data = [
+  {
+    name: "Protfolio",
+    description: "MyProtfolio",
+    live: "Live Demo",
+    code: "Code",
+>>>>>>> e926f463371e47ee17f7fe4eb592e9ed8f077d4a
   },
   {
     name: "Protfolio2",
