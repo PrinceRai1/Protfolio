@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Protfolio/static/css/main.a008cdc3.css",
+    "main.js": "/Protfolio/static/js/main.b64d4bf8.js",
+    "static/media/javascript-7577991.png": "/Protfolio/static/media/javascript-7577991.7a609580b8d019256c66.png",
+    "static/media/tailwind-7577995.png": "/Protfolio/static/media/tailwind-7577995.694b7587117924b8521a.png",
+    "static/media/react.png": "/Protfolio/static/media/react.19e3de1c107b61e05fc1.png",
+    "static/media/css.png": "/Protfolio/static/media/css.ddc681e9ea4ff2626fae.png",
+    "static/media/html.png": "/Protfolio/static/media/html.b8be208aca713b876537.png",
+    "static/media/about-img.jpg": "/Protfolio/static/media/about-img.62b47e7f183d4b4e9feb.4df68152ab214033b313.jpg",
+    "static/media/cool-background.png": "/Protfolio/static/media/cool-background.4bf83f3a01c08489d504.png",
+    "static/media/3d-casual-life-young-man-sitting-with-a-laptop-and-waving-his-hand.png": "/Protfolio/static/media/3d-casual-life-young-man-sitting-with-a-laptop-and-waving-his-hand.47d2a27fca7ef03fb3ac.png",
+    "static/media/favicon.png": "/Protfolio/static/media/favicon.93e796c696b46e2e7709.png",
+    "static/media/working-emoji. (1).png": "/Protfolio/static/media/working-emoji.c5325f52b5be329995a5 (1).c5325f52b5be329995a5.png",
+    "index.html": "/Protfolio/index.html",
+    "main.a008cdc3.css.map": "/Protfolio/static/css/main.a008cdc3.css.map",
+    "main.b64d4bf8.js.map": "/Protfolio/static/js/main.b64d4bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a008cdc3.css",
+    "static/js/main.b64d4bf8.js"
+  ]
+}
